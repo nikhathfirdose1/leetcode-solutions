@@ -4,12 +4,11 @@ class Solution:
         if x < 0 or ( x %10 == 0 and x != 0):
             return False
 
-        check = x
         rev = 0
-        while x > 0:
+        while x > rev:
             rev = rev * 10 + x % 10
             x = x // 10
 
-        return check == rev
+        return x == rev or x == rev //10
 
         
