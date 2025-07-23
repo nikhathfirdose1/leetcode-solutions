@@ -65,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
+## String
+|  |
+| ------- |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 <!---LeetCode Topics End-->
