@@ -15,10 +15,10 @@ class Solution:
                 else:
                     right = mid
 
-            if left < len(nums) and nums[left] == target:
+            if nums[left] == target:
                 return left
 
-            if right < len(nums) and nums[right] == target:
+            if nums[right] == target:
                 return right
 
             return -1
@@ -38,10 +38,10 @@ class Solution:
                 else:
                     left = mid
 
-            if right >= 0 and nums[right] == target:
+            if nums[right] == target:
                 return right
 
-            if left >= 0 and  nums[left] == target:
+            if nums[left] == target:
                 return left
 
             
