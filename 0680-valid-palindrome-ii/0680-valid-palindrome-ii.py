@@ -2,12 +2,17 @@ class Solution:
     def validPalindrome(self, s: str) -> bool:
 
 
-        def help(st, i, j):
+        def help(st, i, j, del_allowed):
 
             while i < j:
 
-                if st[i] != st[j]:
-                    return False
+
+                if s[i] != s[j]:
+
+                    if del_allowed == 0:
+                        return False
+
+                    return help(st, i+1,j, del_allowed -1) or help(st, i,j-1, del_allowed -1)
 
                 i += 1
                 j -= 1
@@ -15,19 +20,7 @@ class Solution:
             return True
 
 
-        i = 0 
-        j = len(s) - 1
-
-        while i < j:
-
-            if s[i] != s[j]:
-                return help(s, i+1, j) or help(s, i,j-1)
-
-            i += 1
-            j -= 1
-
-        return True
-
+        return help(s, 0, len(s)-1, 1)
 
 
 
