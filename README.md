@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 ## Linked List
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0253-meeting-rooms-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 ## Data Stream
 |  |
 | ------- |
@@ -97,4 +99,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Tree
+|  |
+| ------- |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 <!---LeetCode Topics End-->
