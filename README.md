@@ -107,10 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0339-nested-list-weight-sum](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0339-nested-list-weight-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0339-nested-list-weight-sum](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0339-nested-list-weight-sum) |
 ## Binary Tree
 |  |
 | ------- |
