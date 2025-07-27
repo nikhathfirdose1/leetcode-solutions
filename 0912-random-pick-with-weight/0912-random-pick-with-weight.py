@@ -16,9 +16,20 @@ class Solution:
 
         target = self.total * random.random()
 
-        for i, pre in enumerate(self.prefix_sum_list):
-            if target < pre:
-                return i
+        l, h = 0 , len(self.prefix_sum_list) - 1
+
+        while l < h:
+            mid = (l+h) // 2
+
+            if target > self.prefix_sum_list[mid]:
+                l = mid + 1
+            else:
+                h = mid
+
+        return l
+
+
+
 
         
 
