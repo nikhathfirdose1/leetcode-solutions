@@ -16,22 +16,17 @@ class Solution:
 
         target = self.total * random.random()
 
-        l, h = 0 , len(self.prefix_sum_list) - 1
+        l, r = 0 , len(self.prefix_sum_list) - 1
 
-        while l < h:
-            mid = (l+h) // 2
+        while l <= r:
+            mid = (l+r) // 2
 
             if target > self.prefix_sum_list[mid]:
                 l = mid + 1
             else:
-                h = mid
+                r = mid -1 
 
         return l
-
-
-
-
-        
 
 
 # Your Solution object will be instantiated and called as such:
