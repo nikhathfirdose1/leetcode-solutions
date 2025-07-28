@@ -1,10 +1,11 @@
 class Solution:
     def calculate(self, s: str) -> int:
 
-        stack = []
+        last = 0
         sign = "+"
         s = s.replace(" ", "")
         num = 0
+        res =0
 
         for i, c in enumerate(s):
 
@@ -14,27 +15,29 @@ class Solution:
             if c in "+-*/" or i == len(s) - 1:
 
                 if sign == "+":
-                    stack.append(num)
+                    
+                    res += last
+                    last = num
                 
                 elif sign == "-":
-                    stack.append(-num)
+                    
+                    res += last
+                    last = -num
 
                 elif sign == "*":
-                    prev = stack.pop()
-                    res = num * prev
-                    stack.append(res)
-
+                    last = num * last
+                    
                 elif sign == "/":
-                    prev = stack.pop()
-                    res = int(prev / num)
-                    stack.append(res)
-
-                
+    
+                    last = int(last / num)
+    
                 sign = c
                 num = 0
 
+        res += last
+
         
-        return sum(stack)
+        return res
                 
 
 
