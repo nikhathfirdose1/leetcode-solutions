@@ -7,6 +7,7 @@
 
 class Solution:
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
+        
 
         def dfs(node):
 
@@ -22,11 +23,7 @@ class Solution:
             if left and right:
                 return node
 
-            
             return left if left else right
 
-
-        return dfs(root)
-
-
         
+        return dfs(root)
