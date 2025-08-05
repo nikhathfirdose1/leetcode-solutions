@@ -7,8 +7,8 @@ class Solution:
             if power == 0:
                 return 1.0
 
-            if power < 0:
-                return 1.0 / recurse(num, -1*power)
+            if num == 0:
+                return 0
 
             if power % 2 == 0:
 
@@ -18,5 +18,7 @@ class Solution:
                 return num * recurse(num*num, (power-1)//2)
 
 
-        return recurse(x,n)
+        res = recurse(x,abs(n))
+
+        return res if n>= 0 else 1/res
         
