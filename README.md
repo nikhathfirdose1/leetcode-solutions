@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0560-subarray-sum-equals-k](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Linked List
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0912-random-pick-with-weight](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Greedy
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0912-random-pick-with-weight](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 ## String
 |  |
 | ------- |
