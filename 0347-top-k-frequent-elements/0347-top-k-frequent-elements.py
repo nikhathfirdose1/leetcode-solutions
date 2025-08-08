@@ -14,6 +14,9 @@ class Solution:
             if len(heap) > k:
                 heapq.heappop(heap)
             
+            if k == len(hm):
+                return list(hm.keys())
+            
         for pair in heap:
             ans.append(pair[1])
 
