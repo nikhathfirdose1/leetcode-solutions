@@ -1,6 +1,10 @@
 class Solution:
     def findBuildings(self, heights: List[int]) -> List[int]:
 
+        if len(heights) == 1:
+            return [0]
+
+
         ans = [len(heights)-1]
         large = heights[len(heights)-1]
 
