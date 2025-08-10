@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-random-pick-with-weight](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
 | [0966-binary-subarrays-with-sum](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1909-buildings-with-an-ocean-view](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1909-buildings-with-an-ocean-view) |
 ## Greedy
 |  |
 | ------- |
@@ -122,10 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0739-daily-temperatures](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1909-buildings-with-an-ocean-view](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1909-buildings-with-an-ocean-view) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [1909-buildings-with-an-ocean-view](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1909-buildings-with-an-ocean-view) |
 ## Binary Search
 |  |
 | ------- |
