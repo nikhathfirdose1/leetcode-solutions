@@ -4,11 +4,11 @@ class Solution:
         ans = [len(heights)-1]
         large = heights[len(heights)-1]
 
-        for i in range(len(heights)-1, -1, -1):
+        for i in range(len(heights)-2, -1, -1):
 
-            if heights[i-1] > large:
-                ans.append(i-1)
-                large = heights[i-1]
+            if heights[i] > large:
+                ans.append(i)
+                large = heights[i]
 
         return ans[::-1]
 
