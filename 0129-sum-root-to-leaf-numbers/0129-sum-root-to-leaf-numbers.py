@@ -7,34 +7,22 @@
 class Solution:
     def sumNumbers(self, root: Optional[TreeNode]) -> int:
 
-
         ans = 0
-        curr =0
+        stack = [(root, 0)]
 
-        def dfs(node):
+        while stack:
+            node, curr = stack.pop()
 
-            nonlocal ans
-            nonlocal curr
+            if node:
+                curr = curr * 10 + node.val
 
-            if not node:
-                return 0
-
-            curr = curr*10 + node.val
-
-            if node.left is None and node.right is None:
-                ans += curr
-
-            else:
-                dfs(node.left)
-                dfs(node.right)
-
-            curr //= 10
-
-
-        dfs(root)
+                if node.left is None and node.right is None:
+                    ans += curr
+                else:
+                    stack.append((node.left, curr))
+                    stack.append((node.right, curr))
 
         return ans
-
         
 
      
