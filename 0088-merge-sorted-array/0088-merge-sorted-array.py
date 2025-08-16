@@ -15,17 +15,12 @@ class Solution:
             if s <0 :
                 break
 
-            if nums1[f] <= nums2[s] or f <0:
+            if nums1[f] < nums2[s] or f <0:
                 nums1[r] = nums2[s]
                 s -= 1
                 r -= 1
-   
-            else :
+
+            else:
                 nums1[r] = nums1[f]
                 f -= 1
                 r -= 1
-
-
-
-
-
