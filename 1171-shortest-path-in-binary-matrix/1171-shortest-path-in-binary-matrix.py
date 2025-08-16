@@ -6,8 +6,10 @@ class Solution:
         if grid[0][0] == 1 or grid[n-1][n-1] == 1:
             return -1
 
-        
         queue = deque([(0,0,1)])
+        grid[0][0] = 1
+
+        directions = [(1,0), (0,1), (-1,0), (0,-1), (-1,-1), (1,1), (1,-1), (-1,1)]
 
         while queue:
 
@@ -16,7 +18,6 @@ class Solution:
             if row == n-1 and col == n-1:
                 return dist
 
-            directions = [(1,0), (0,1), (-1,0), (0,-1), (-1,-1), (1,1), (1,-1), (-1,1)]
 
             for dr, dc in directions:
                 nr, nc = row + dr, col + dc
