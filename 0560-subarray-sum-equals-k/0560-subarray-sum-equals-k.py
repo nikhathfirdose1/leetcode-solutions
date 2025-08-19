@@ -1,6 +1,9 @@
 class Solution:
     def subarraySum(self, nums: List[int], k: int) -> int:
 
+        if len(nums) == 1 and k ==0:
+            return 0
+
         hm = {0:1}
 
         prefix = 0
