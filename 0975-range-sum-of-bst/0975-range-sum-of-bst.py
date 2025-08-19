@@ -19,10 +19,10 @@ class Solution:
             if low <= node.val <= high:
                 ans += node.val
 
-            if node.left:
+            if low < node.val:
                 dfs(node.left)
             
-            if node.right:
+            if node.val < high:
                 dfs(node.right)
 
         
