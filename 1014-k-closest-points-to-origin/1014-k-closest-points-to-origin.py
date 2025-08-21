@@ -4,25 +4,17 @@ class Solution:
         heap = []
         ans = []
 
-        for i in range(len(points)):
-            x, y = points[i]
+        for point in points:
 
-            dist = x*x + y*y
+            val = (point[0] * point[0]) + (point[1]*point[1])
 
-            heapq.heappush(heap, (-dist, x,y))
-
-            if len(heap) >k:
-                heapq.heappop(heap)
-
-        for dist, x, y in heap:
-            ans.append((x,y))
-
-        return ans
-
-
-
+            heapq.heappush(heap, (-val, point))
 
             
+            if len(heap) > k:
+                heapq.heappop(heap)
+            
+        for pair in heap:
+            ans.append(pair[1])
 
-
-        
+        return ans
