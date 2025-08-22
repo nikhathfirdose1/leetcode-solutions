@@ -1,32 +1,23 @@
 class Solution:
     def maxRepeating(self, sequence: str, word: str) -> int:
+        
 
         s = len(sequence)
         w = len(word)
 
-        if w > s or word not in sequence:
-            return 0
+        dp = [0] * (s+1)
 
         ans = 0
-        i = 0
-
-        while i <= s - w:
-
-            if sequence[i] != word[0]:
-                i += 1
-                continue
 
 
-            run = 0
-            j = i
+        for i in range(w,s+1):
 
-            while j+w <= s and sequence[j:j+w] == word:
-                run += 1
-                j += w
+            
+            if sequence[i-w:i] == word:
+                dp[i] = dp[i-w] + 1
+                ans = max(ans, dp[i])
 
-            ans = max(ans,run)
-            i += 1
+
+            # print(dp)
 
         return ans
-            
-
