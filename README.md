@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0146-lru-cache](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0148-sort-list) |
 ## Design
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0948-sort-an-array) |
@@ -59,12 +61,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0948-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0148-sort-list) |
 | [0253-meeting-rooms-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0408-valid-word-abbreviation](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0408-valid-word-abbreviation) |
@@ -75,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0253-meeting-rooms-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
