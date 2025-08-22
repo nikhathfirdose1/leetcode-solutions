@@ -3,22 +3,19 @@ class Solution:
 
         n = len(nums)
 
-        left = [1] * n
-        right = [1] * n
+        right = 1
 
         ans = [1] *n
 
         for i in range(n-1):
-            prod = left[i] * nums[i]
-            left[i+1] = prod
+            prod = ans[i] * nums[i]
+            ans[i+1] = prod
 
-        for i in range(n-1,0,-1):
-            # print(i)
-            prod = right[i] * nums[i]
-            right[i-1] = prod
 
-        for i in range(n):
-            ans[i] = left[i] * right[i]
+        for i in range(n-1,-1,-1):
+            ans[i] *= right
+            right = nums[i] * right
+
 
         return ans
 
