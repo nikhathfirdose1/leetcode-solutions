@@ -1,32 +1,25 @@
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
 
+        n = len(nums)
 
-        zero_count = 0
-        prod = 1
-        ans = [0] * (len(nums))
+        left = [1] * n
+        right = [1] * n
 
-        for num in nums:
-            if num == 0:
-                zero_count += 1
-            else:
-                prod *= num
-        
+        ans = [1] *n
 
-        if zero_count > 1:
-            return ans
+        for i in range(n-1):
+            prod = left[i] * nums[i]
+            left[i+1] = prod
 
-        if zero_count == 1:
+        for i in range(n-1,0,-1):
+            # print(i)
+            prod = right[i] * nums[i]
+            right[i-1] = prod
 
-            idx = nums.index(0)
-            ans[idx] = prod
-            return ans
-
-        for i in range(len(nums)):
-            res = prod // nums[i]
-            ans[i] = res
+        for i in range(n):
+            ans[i] = left[i] * right[i]
 
         return ans
-
 
         
