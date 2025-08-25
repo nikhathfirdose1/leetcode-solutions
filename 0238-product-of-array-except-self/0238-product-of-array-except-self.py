@@ -2,23 +2,20 @@ class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
 
         n = len(nums)
+        
+        l = [1] * n
+        r = [1] * n
+
         ans = [1] * n
-        right = 1
 
         for i in range(1,n):
-            ans[i]= ans[i-1] * nums[i-1]
+            l[i] = l[i-1] * nums[i-1]
 
-        for i in range(n-1, -1, -1):
-            ans[i] = right * ans[i]
-            right = right * nums[i]
+        for i in range(n-2, -1, -1):
+            r[i] = r[i+1] * nums[i+1]
 
-        # suffix[n-1] = 1
 
-        # for i in range(n):
-        #     ans[i] = prefix[i] * suffix[i]
+        for i in range(n):
+            ans[i] = l[i] * r[i]
 
         return ans
-
-
-
-        
