@@ -2,9 +2,6 @@ class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
 
         n = len(nums)
-        prefix = [1] * n
-        suffix = [1] * n
-
         ans = [1] * n
         right = 1
 
