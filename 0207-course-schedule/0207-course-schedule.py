@@ -6,8 +6,8 @@ class Solution:
         adj = defaultdict(list)
 
         for u,v in prerequisites:
-            adj[u].append(v)
-            indegree[v] += 1
+            adj[v].append(u)
+            indegree[u] += 1
 
         queue = deque()
         for i in range(numCourses):
@@ -20,7 +20,6 @@ class Solution:
         while queue:
             node = queue.popleft()
             topo.append(node)
-
 
             for neigh in adj[node]:
                 indegree[neigh] -= 1
