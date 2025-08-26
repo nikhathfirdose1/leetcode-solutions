@@ -7,8 +7,6 @@ class Solution:
         queue = deque([(beginWord, 1)])
         dict_set = set(wordList)
         
-
-
         while queue:
             word, dist = queue.popleft()
 
@@ -22,9 +20,9 @@ class Solution:
                         return dist + 1
 
                     if nextWord in dict_set:
-                        
-                        dict_set.remove(nextWord)
                         queue.append((nextWord, dist+1))
+                        dict_set.remove(nextWord)
+                        
 
         return 0
 
