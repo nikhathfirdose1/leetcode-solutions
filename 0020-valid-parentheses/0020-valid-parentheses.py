@@ -6,13 +6,13 @@ class Solution:
         hm = {"}" : "{", ")": "(", "]": '['}
 
         for c in s:
-            if c == "(" or c == "[" or c == "{":
-                stack.append(c)   
-            elif stack and stack[-1] == hm[c]:
+            if c in hm:
+                if not stack or stack[-1] != hm[c]:
+                    return False
                 stack.pop()
             else:
-                return False
-
+                stack.append(c)
+                
         
         return not stack
                     
