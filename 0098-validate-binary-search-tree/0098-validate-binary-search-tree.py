@@ -6,24 +6,23 @@
 #         self.right = right
 class Solution:
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
+        
+        prev = float("-inf")
 
-        low = float("-inf")
-        up = float("inf")
+        def inorder(node):
 
-
-        def validate(node, lower, upper):
+            nonlocal prev
             if not node:
                 return True
             
-            if node.val <= lower or node.val >= upper:
+            if not inorder(node.left):
                 return False
 
+            if node.val <= prev:
+                return False
             
-            return validate(node.right, node.val, upper) and validate(node.left, lower, node.val)
+            prev = node.val
 
+            return inorder(node.right)
 
-        return validate(root, low, up)
-
-
-
-        
+        return inorder(root)
