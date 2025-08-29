@@ -8,20 +8,20 @@
 class Solution:
     def inorderSuccessor(self, root: TreeNode, p: TreeNode) -> Optional[TreeNode]:
 
-        def inorder(node):
-            if not node:
-                return []
+        succ = None
 
-            return inorder(node.left) + [node] + inorder(node.right)
 
-        order = inorder(root)
 
-        for i, node in enumerate(order):
+        while root:
 
-            if node.val == p.val:
-                if i == len(order) -1:
-                    return None
-                else:
-                    return order[i+1]
-                
+            if p.val >= root.val:
+                root = root.right
+
+            else:
+                succ = root
+                root = root.left
+
+        
+        return succ
+
         
