@@ -19,9 +19,12 @@ class Solution:
 
             if node is not None:
                 column[col].append(node.val)
-                queue.append((node.left, col-1))
 
-                queue.append((node.right, col +1))
+                if node.left:
+                    queue.append((node.left, col-1))
+
+                if node.right:
+                    queue.append((node.right, col +1))
 
         
         for col in sorted(column.keys()):
