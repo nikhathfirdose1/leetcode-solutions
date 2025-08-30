@@ -7,30 +7,25 @@
 class Solution:
     def verticalOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
 
-        if root is None:
-            return []
+        column = defaultdict(list)
 
         queue = deque([(root, 0)])
-        columns = defaultdict(list)
-        min_c = max_c = 0
+
         ans = []
 
         while queue:
+
             node, col = queue.popleft()
 
-            # print(node, col)
-
             if node is not None:
-                columns[col].append(node.val)
-                min_c = min(min_c, col)
-                max_c = max(max_c,col)
+                column[col].append(node.val)
+                queue.append((node.left, col-1))
 
-                queue.append((node.left, col - 1))
-                queue.append((node.right, col + 1))
+                queue.append((node.right, col +1))
 
-
-        for col in range(min_c, max_c + 1):
-            ans.append(columns[col])
+        
+        for col in sorted(column.keys()):
+            ans.append(column[col])
 
         return ans
 
