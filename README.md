@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0285-inorder-successor-in-bst](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0285-inorder-successor-in-bst) |
 | [0975-range-sum-of-bst](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0975-range-sum-of-bst) |
 ## Geometry
