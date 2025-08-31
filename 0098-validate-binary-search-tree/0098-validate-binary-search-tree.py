@@ -7,32 +7,23 @@
 class Solution:
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
 
-        if not root:
-            return True
+        prev = float("-inf")
 
-        lower = float("-inf")
-        upper = float("inf")
+        def dfs(node):
 
-        stack = [(root, lower, upper)]
-
-        while stack:
-
-            node, low, high = stack.pop()
+            nonlocal prev
 
             if not node:
-                continue
+                return True
 
-            if node.val <= low or node.val >= high:
+            if not dfs(node.left):
                 return False
 
-            
-            stack.append((node.left, low, node.val))
-            stack.append((node.right, node.val, high))
+            if node.val <= prev:
+                return False
+            prev = node.val
 
-        
-        return True
+            return dfs(node.right)
 
-
-
-
+        return dfs(root)
         
