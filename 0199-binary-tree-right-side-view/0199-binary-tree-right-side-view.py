@@ -10,7 +10,7 @@ class Solution:
         if not root:
             return []
 
-        hm = defaultdict(list)
+        hm = {}
 
         queue = deque([(root, 0)])
         ans = []
@@ -18,20 +18,20 @@ class Solution:
         while queue:
 
             node, row = queue.popleft()
+            
+            if not node:
+                return None
+        
+            hm[row] = node.val
 
-            if node:
-
-                hm[row].append(node.val)
-
-
-            if node and node.left:
+            if node.left:
                 queue.append((node.left, row+1))
 
-            if node and node.right:
+            if node.right:
                 queue.append((node.right, row+1))
 
         for key, value in hm.items():
-            ans.append(value[-1])
+            ans.append(value)
 
         return ans
             
