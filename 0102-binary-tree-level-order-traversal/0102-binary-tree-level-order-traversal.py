@@ -13,7 +13,6 @@ class Solution:
         ans = []
 
         def dfs(node, level):
-            nonlocal ans
 
             if len(ans) == level:
                 ans.append([])
