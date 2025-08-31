@@ -10,27 +10,29 @@ class Solution:
         if not root:
             return []
 
-        queue = deque([root])
-        res = []
+        hm = defaultdict(list)
+
+        queue = deque([(root, 0)])
+        ans = []
 
         while queue:
-            level_size = len(queue)
 
-            for i in range(level_size):
-                
-                node = queue.popleft()
-                if i == level_size -1:
-                    res.append(node.val)
+            node, row = queue.popleft()
 
-                if node.left:
-                    queue.append(node.left)
+            if node:
 
-                if node.right:
-                    queue.append(node.right)
+                hm[row].append(node.val)
 
 
-        return res
+            if node and node.left:
+                queue.append((node.left, row+1))
 
+            if node and node.right:
+                queue.append((node.right, row+1))
+
+        for key, value in hm.items():
+            ans.append(value[-1])
+
+        return ans
             
-
-            
+        
