@@ -7,24 +7,22 @@
 class Solution:
     def searchBST(self, root: Optional[TreeNode], val: int) -> Optional[TreeNode]:
 
-        def dfs(node):
+        queue = deque([root])
+
+        while queue:
+            node = queue.popleft()
+
             if not node:
-                return 
+                return None
 
             if node.val == val:
                 return node
-            
-            elif node.val > val:
-                return dfs(node.left)
-            
+
+            elif node.val> val:
+                queue.append(node.left)
             else:
-                return dfs(node.right)
+                queue.append(node.right)
 
-        return dfs(root)  
+        return None
 
-
-                
-
-
-
-
+        
