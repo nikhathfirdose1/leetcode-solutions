@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0545-boundary-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0545-boundary-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0285-inorder-successor-in-bst](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0285-inorder-successor-in-bst) |
+| [0783-search-in-a-binary-search-tree](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0975-range-sum-of-bst) |
 ## Geometry
 |  |
