@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1125-design-file-system](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1125-design-file-system) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Linked List
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0346-moving-average-from-data-stream](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0346-moving-average-from-data-stream) |
 | [0359-logger-rate-limiter](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0359-logger-rate-limiter) |
 | [0362-design-hit-counter](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0362-design-hit-counter) |
+| [1125-design-file-system](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1125-design-file-system) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0408-valid-word-abbreviation](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0408-valid-word-abbreviation) |
 | [0680-valid-palindrome-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [1125-design-file-system](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1125-design-file-system) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1764-maximum-repeating-substring](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1764-maximum-repeating-substring) |
 ## Stack
@@ -346,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0346-moving-average-from-data-stream](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0346-moving-average-from-data-stream) |
 | [0362-design-hit-counter](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0362-design-hit-counter) |
+## Trie
+|  |
+| ------- |
+| [1125-design-file-system](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1125-design-file-system) |
 <!---LeetCode Topics End-->
