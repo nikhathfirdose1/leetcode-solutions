@@ -2,96 +2,91 @@ class Solution:
     def largestIsland(self, grid: List[List[int]]) -> int:
 
         n = len(grid)
-        root = [i for i in range(n*n)]
-        rank = [1] * (n * n)
-        size = [1] * (n * n)
+
+        parent = [i for i in range(n*n)]
+        size = [1] * (n*n)
+
 
         def find(x):
-            if root[x] == x:
+            if parent[x] == x:
                 return x
+            
+            parent[x] = find(parent[x])
+            return parent[x]
 
-            root[x] = find(root[x])
-            return root[x]
 
-        def union(x,y):
+        def union(x, y):
             rootX = find(x)
             rootY = find(y)
 
-            if rootX != rootY:
-                if rank[rootX] > rank[rootY]:
-                    root[rootY] = rootX
-                    size[rootX] += size[rootY]
-                elif rank[rootX] < rank[rootY]:
-                    root[rootX] = rootY
-                    size[rootY] += size[rootX]
-                else:
-                    root[rootY] = rootX
-                    rank[rootX] += 1
-                    size[rootX] += size[rootY]
+            if rootX == rootY:
+                return
 
-        
+            if rootX != rootY:
+                if size[rootX] > size[rootY]:
+                    parent[rootY] = rootX
+                    size[rootX] += size[rootY]
+                else:
+                    parent[rootX] = rootY
+                    size[rootY] += size[rootX]
+
+                
         rows = len(grid)
         cols = len(grid[0])
+        max_island = 0
+        all_ones = True
+        unique_roots = set()
 
         rd = [1,-1,0,0]
         cd = [0,0,1,-1]
 
+
         for curr_row in range(rows):
             for curr_col in range(cols):
-
                 if grid[curr_row][curr_col] == 1:
-                    node = (cols * curr_row) + curr_col
 
-                    for direction in range(4):
-                        neigh_row = curr_row + rd[direction]
-                        neigh_col = curr_col + cd[direction]
+                    ID = (cols * curr_row) + curr_col
 
-                        if 0 <= neigh_row < rows and 0 <= neigh_col < cols and grid[neigh_row][neigh_col] == 1:
-                            neigh_node = (cols * neigh_row) + neigh_col
-                            union(node, neigh_node)
+                    for d in range(4):
+                        nr = curr_row + rd[d]
+                        nc = curr_col + cd[d]
 
+                        if 0 <= nr < rows and 0 <= nc < cols and grid[nr][nc] == 1:
+                            neigh_ID = (cols * nr) + nc
+                            union(ID, neigh_ID)
 
-        # for i in range(len(root)):
-        #     if root[i] == i:
-        #         print("ROOT:", i, "rank:", rank[i])
-
-        max_island = 0 
-        unique = set()
-        zero = False
-
+        
         for curr_row in range(rows):
             for curr_col in range(cols):
                 if grid[curr_row][curr_col] == 0:
-                    zero = True
+                    all_ones = False
+
                     island = 1
 
                     for d in range(4):
-                        neigh_row = curr_row + rd[d]
-                        neigh_col = curr_col + cd[d]
+                        nr = curr_row + rd[d]
+                        nc = curr_col + cd[d]
 
-                        if 0 <= neigh_row < rows and 0 <= neigh_col < cols and grid[neigh_row][neigh_col] == 1:
-                            neigh_node = (cols * neigh_row) + neigh_col
+                        if 0 <= nr < rows and 0 <= nc < cols and grid[nr][nc] == 1:
+                            neigh = (cols * nr) + nc
+                            main_root = find(neigh)
+                            unique_roots.add(main_root)
 
-                            main_root = find(neigh_node)
-                            unique.add(main_root)
+                    
+                    for rt in unique_roots:
+                        island += size[rt]
 
-                    for r in unique:
-                        island += size[r]
-                        
-                    unique.clear()
+                    unique_roots.clear()
 
                     max_island = max(max_island, island)
 
-        if not zero:
-            return rows * cols
-        
-        return max_island
 
 
-        
+        if all_ones:
+            return rows*cols
 
-
-
+        else:
+            return max_island
 
 
 
