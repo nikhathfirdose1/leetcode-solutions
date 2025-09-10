@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0348-design-tic-tac-toe](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0348-design-tic-tac-toe) |
 | [0359-logger-rate-limiter](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0359-logger-rate-limiter) |
 | [0560-subarray-sum-equals-k](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0778-reorganize-string](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0778-reorganize-string](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0778-reorganize-string](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0253-meeting-rooms-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
 | [0680-valid-palindrome-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0778-reorganize-string](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Prefix Sum
 |  |
@@ -175,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0408-valid-word-abbreviation](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0408-valid-word-abbreviation) |
 | [0415-add-strings](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0415-add-strings) |
 | [0680-valid-palindrome-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0778-reorganize-string](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [1125-design-file-system](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1125-design-file-system) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1764-maximum-repeating-substring](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1764-maximum-repeating-substring) |
@@ -322,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0778-reorganize-string](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0778-reorganize-string) |
 ## Dynamic Programming
 |  |
 | ------- |
