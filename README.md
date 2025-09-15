@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1909-buildings-with-an-ocean-view](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1909-buildings-with-an-ocean-view) |
+| [2690-house-robber-iv](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/2690-house-robber-iv) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Greedy
 |  |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
 | [0680-valid-palindrome-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0778-reorganize-string) |
+| [2690-house-robber-iv](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/2690-house-robber-iv) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Prefix Sum
 |  |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0362-design-hit-counter](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0362-design-hit-counter) |
 | [0912-random-pick-with-weight](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
+| [2690-house-robber-iv](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/2690-house-robber-iv) |
 ## Quickselect
 |  |
 | ------- |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1764-maximum-repeating-substring](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1764-maximum-repeating-substring) |
+| [2690-house-robber-iv](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/2690-house-robber-iv) |
 ## Matrix
 |  |
 | ------- |
