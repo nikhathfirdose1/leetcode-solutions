@@ -1,61 +1,49 @@
 class Solution:
     def searchRange(self, nums: List[int], target: int) -> List[int]:
-
-        def left():
-            left = 0
-            right = len(nums) - 1
-
-            while left+ 1 < right:
-
-                mid = (left + right) // 2
-
-                if nums[mid] < target:
-                    left = mid
-
-                else:
-                    right = mid
-
-            if nums[left] == target:
-                return left
-
-            if nums[right] == target:
-                return right
-
-            return -1
-            
-
-        def right():
-            left = 0
-            right = len(nums) - 1
-
-            while left+ 1 < right:
-
-                mid = (left + right) // 2
-
-                if nums[mid] > target:
-                    right = mid
-
-                else:
-                    left = mid
-
-            if nums[right] == target:
-                return right
-
-            if nums[left] == target:
-                return left
-
-            
-
-            return -1
-
-
-        if not nums:
-            return [-1, -1]
         
-        l = left()
-        r = right()
+        def first():
+            l = 0
+            r = len(nums) - 1
 
-        if l != -1:
-            return [l,r]
-        else:
-            return [-1,-1]
+            res = -1
+
+            while l <= r:
+                mid = (l +r) // 2
+
+                if nums[mid] == target:
+                    res = mid
+                    r = mid - 1
+
+                elif target < nums[mid]:
+                    r = mid - 1
+
+                else:
+                    l = mid + 1
+
+            return res
+
+
+        def second():
+            l = 0
+            r = len(nums) - 1
+
+            res = -1
+
+            while l <= r:
+                mid = (l +r) // 2
+
+                if nums[mid] == target:
+                    res = mid
+                    l = mid + 1
+
+                elif target < nums[mid]:
+                    r = mid - 1
+
+                else:
+                    l = mid + 1
+
+            return res
+
+
+        return [first(), second()]
+
