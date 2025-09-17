@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
 | [0854-making-a-large-island](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0854-making-a-large-island) |
 | [0912-random-pick-with-weight](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
 | [0948-sort-an-array](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0948-sort-an-array) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0362-design-hit-counter](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0362-design-hit-counter) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
 | [0912-random-pick-with-weight](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
 | [2690-house-robber-iv](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/2690-house-robber-iv) |
 ## Quickselect
@@ -419,4 +421,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0278-first-bad-version) |
+| [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
 <!---LeetCode Topics End-->
