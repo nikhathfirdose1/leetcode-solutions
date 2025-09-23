@@ -60,6 +60,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -127,6 +128,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0031-next-permutation](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0053-maximum-subarray](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -352,6 +354,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1764-maximum-repeating-substring](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1764-maximum-repeating-substring) |
