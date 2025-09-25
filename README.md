@@ -25,6 +25,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0347-top-k-frequent-elements](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0348-design-tic-tac-toe) |
 | [0359-logger-rate-limiter](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0359-logger-rate-limiter) |
+| [0525-contiguous-array](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0778-reorganize-string](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
@@ -146,6 +147,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0348-design-tic-tac-toe](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0348-design-tic-tac-toe) |
 | [0362-design-hit-counter](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0362-design-hit-counter) |
 | [0485-max-consecutive-ones](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0525-contiguous-array](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
@@ -177,6 +179,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0238-product-of-array-except-self](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0325-maximum-size-subarray-sum-equals-k) |
+| [0525-contiguous-array](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0912-random-pick-with-weight](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
 | [0966-binary-subarrays-with-sum](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
