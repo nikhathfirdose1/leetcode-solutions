@@ -32,6 +32,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [1016-subarray-sums-divisible-by-k](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1125-design-file-system](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1125-design-file-system) |
+| [1219-longest-well-performing-interval](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1219-longest-well-performing-interval) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Linked List
@@ -161,6 +162,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [1014-k-closest-points-to-origin](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1219-longest-well-performing-interval](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1219-longest-well-performing-interval) |
 | [1909-buildings-with-an-ocean-view](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1909-buildings-with-an-ocean-view) |
 | [2690-house-robber-iv](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/2690-house-robber-iv) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -184,6 +186,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0912-random-pick-with-weight](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
 | [0966-binary-subarrays-with-sum](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1219-longest-well-performing-interval](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1219-longest-well-performing-interval) |
 ## String
 |  |
 | ------- |
@@ -212,12 +215,14 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0173-binary-search-tree-iterator](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0227-basic-calculator-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0739-daily-temperatures](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [1219-longest-well-performing-interval](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1219-longest-well-performing-interval) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1909-buildings-with-an-ocean-view](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1909-buildings-with-an-ocean-view) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [1219-longest-well-performing-interval](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1219-longest-well-performing-interval) |
 | [1909-buildings-with-an-ocean-view](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1909-buildings-with-an-ocean-view) |
 ## Binary Search
 |  |
