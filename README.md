@@ -34,6 +34,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [1125-design-file-system](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1125-design-file-system) |
 | [1219-longest-well-performing-interval](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1219-longest-well-performing-interval) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [3237-number-of-divisible-substrings](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/3237-number-of-divisible-substrings) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Linked List
 |  |
@@ -187,6 +188,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0966-binary-subarrays-with-sum](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1219-longest-well-performing-interval](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1219-longest-well-performing-interval) |
+| [3237-number-of-divisible-substrings](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/3237-number-of-divisible-substrings) |
 ## String
 |  |
 | ------- |
@@ -204,6 +206,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [1125-design-file-system](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1125-design-file-system) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1764-maximum-repeating-substring](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1764-maximum-repeating-substring) |
+| [3237-number-of-divisible-substrings](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/3237-number-of-divisible-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -359,6 +362,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0778-reorganize-string) |
+| [3237-number-of-divisible-substrings](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/3237-number-of-divisible-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
