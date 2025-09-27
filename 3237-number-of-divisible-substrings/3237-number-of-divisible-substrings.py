@@ -1,34 +1,25 @@
 class Solution:
     def countDivisibleSubstrings(self, word: str) -> int:
-
-        def val(c):
-
-            if c <= "b":
+        
+        def val(c: str) -> int:
+            if c <= 'b': 
                 return 1
-            else:
-                return 2 + (ord(c) - ord("c")) // 3
+            idx = ord(c) - ord('c')  
+            return 2 + idx // 3      
 
+        n = len(word)
+        arr = [val(ch) for ch in word]
+
+        
+        P = [0]*(n+1)
+        for i in range(n):
+            P[i+1] = P[i] + arr[i]
 
         ans = 0
-
-        for i in range(1,10):
-            prefix = 0
-            freq = {0:1}
-
-            for ch in word:
-                prefix += val(ch) - i
-                ans += freq.get(prefix, 0)
-
-                freq[prefix] = freq.get(prefix,0) + 1
-
+        for l in range(n):
+            for r in range(l, n):
+                total = P[r+1] - P[l]
+                length = r - l + 1
+                if total % length == 0:
+                    ans += 1
         return ans
-        
-
-
-
-
-
-
-
-
-
