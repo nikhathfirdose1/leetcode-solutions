@@ -11,8 +11,8 @@ class Solution:
 
         while p1 >= 0 or p2 >= 0:
 
-            x1 = int(a[p1]) if p1>= 0 else 0
-            x2 = int(b[p2]) if p2 >= 0 else 0
+            x1 = ord(a[p1]) - ord("0") if p1>= 0 else 0
+            x2 = ord(b[p2]) - ord("0") if p2 >= 0 else 0
 
             value = (x1+x2+carry) % 2
             carry = (x1+ x2+carry) // 2
