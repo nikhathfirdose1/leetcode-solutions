@@ -15,6 +15,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0415-add-strings](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0415-add-strings) |
 | [0912-random-pick-with-weight](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
 | [1014-k-closest-points-to-origin](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
+| [1031-add-to-array-form-of-integer](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1031-add-to-array-form-of-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -164,6 +165,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0966-binary-subarrays-with-sum](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1031-add-to-array-form-of-integer](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1219-longest-well-performing-interval](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1219-longest-well-performing-interval) |
 | [1909-buildings-with-an-ocean-view](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1909-buildings-with-an-ocean-view) |
