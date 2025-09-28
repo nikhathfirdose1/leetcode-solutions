@@ -11,6 +11,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0050-powx-n](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0067-add-binary) |
 | [0227-basic-calculator-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
+| [0371-sum-of-two-integers](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0415-add-strings) |
 | [0912-random-pick-with-weight](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
 | [1014-k-closest-points-to-origin](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
@@ -454,4 +455,5 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0067-add-binary) |
+| [0371-sum-of-two-integers](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
