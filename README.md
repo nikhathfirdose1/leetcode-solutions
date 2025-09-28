@@ -9,6 +9,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0002-add-two-numbers](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0067-add-binary) |
 | [0227-basic-calculator-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0415-add-strings](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0415-add-strings) |
 | [0912-random-pick-with-weight](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
@@ -195,6 +196,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0127-word-ladder) |
@@ -436,6 +438,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0067-add-binary) |
 | [0348-design-tic-tac-toe](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0348-design-tic-tac-toe) |
 | [0415-add-strings](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0415-add-strings) |
 ## Union Find
@@ -447,4 +450,8 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | ------- |
 | [0278-first-bad-version](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
