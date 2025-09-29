@@ -14,6 +14,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0227-basic-calculator-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0371-sum-of-two-integers](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0415-add-strings) |
+| [0445-add-two-numbers-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0912-random-pick-with-weight](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
 | [1014-k-closest-points-to-origin](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1031-add-to-array-form-of-integer](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1031-add-to-array-form-of-integer) |
@@ -47,6 +48,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0023-merge-k-sorted-lists](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0146-lru-cache](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0148-sort-list) |
+| [0445-add-two-numbers-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 ## Design
 |  |
 | ------- |
@@ -224,6 +226,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0145-binary-tree-postorder-traversal](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0227-basic-calculator-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
+| [0445-add-two-numbers-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0739-daily-temperatures](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1219-longest-well-performing-interval](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1219-longest-well-performing-interval) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
