@@ -5,11 +5,17 @@ class Solution:
         ans = []
 
         for word in strs:
-            key = tuple(sorted(word))
-            hm[key].append(word)
+            count = [0] * 26
+
+            for letter in word:
+                count[ord(letter) - ord("a")] += 1
+
+            hm[tuple(count)].append(word)
 
         for k, v in hm.items():
             ans.append(v)
+
+        print(hm)
 
         return ans
         
