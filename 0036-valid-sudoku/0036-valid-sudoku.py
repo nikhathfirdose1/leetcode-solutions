@@ -1,9 +1,9 @@
 class Solution:
     def isValidSudoku(self, board: List[List[str]]) -> bool:
         
-        cols = defaultdict(set)
-        rows = defaultdict(set)
-        sqrs = defaultdict(set)
+        cols = defaultdict(list)
+        rows = defaultdict(list)
+        sqrs = defaultdict(list)
 
         for r in range(9):
             for c in range(9):
@@ -15,8 +15,8 @@ class Solution:
                     return False
 
                 
-                rows[r].add(board[r][c])
-                cols[c].add(board[r][c])
-                sqrs[(r//3,c//3)].add(board[r][c])
+                rows[r].append(board[r][c])
+                cols[c].append(board[r][c])
+                sqrs[(r//3,c//3)].append(board[r][c])
 
         return True
