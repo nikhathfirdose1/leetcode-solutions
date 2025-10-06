@@ -106,6 +106,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0125-valid-palindrome) |
@@ -120,6 +121,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -148,6 +150,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
