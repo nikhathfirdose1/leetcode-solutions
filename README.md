@@ -108,6 +108,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | ------- |
 | [0031-next-permutation](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0148-sort-list) |
 | [0253-meeting-rooms-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
@@ -223,6 +224,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0067-add-binary](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0227-basic-calculator-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0242-valid-anagram) |
