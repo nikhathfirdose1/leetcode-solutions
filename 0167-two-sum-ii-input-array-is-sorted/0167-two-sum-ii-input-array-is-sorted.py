@@ -1,11 +1,24 @@
 class Solution:
     def twoSum(self, numbers: List[int], target: int) -> List[int]:
 
-        hm = {}
+        left = 0
+        right = len(numbers) - 1
 
-        for i, num in enumerate(numbers):
+        while left < right:
 
-            if target - num in hm:
-                return [hm[target - num] + 1, i+1]
+            sum_val = numbers[right] + numbers[left]
 
-            hm[num] = i  
+            if  sum_val == target:
+
+                return [left+1, right+1]
+
+            elif sum_val < target:
+
+                left += 1
+
+            else:
+                right -= 1
+
+
+        return [-1,-1]
+
