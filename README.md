@@ -106,6 +106,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -150,6 +151,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -200,6 +202,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0253-meeting-rooms-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
 | [0680-valid-palindrome-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
