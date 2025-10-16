@@ -6,9 +6,9 @@ class Solution:
 
         def backtrack(o,c):
 
-            if o == c == n:
-                
-                return res.append("".join(stack))
+            if o == c == n:           
+                res.append("".join(stack))
+                return
 
             if o < n:
                 stack.append("(")
