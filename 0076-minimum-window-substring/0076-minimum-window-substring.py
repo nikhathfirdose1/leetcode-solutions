@@ -29,15 +29,12 @@ class Solution:
 
             
             if c in needmap and havemap[c] == needmap[c]:
-                print(c)
+                
                 have += 1
 
-            # print(f"havemap:{havemap}, have: {have}, need: {need}")
-            # print("need target =", need, "distinct needed =", len(needmap), "needmap:", needmap)
 
             while have == need:
-                # print(f"VALID window -> [{l},{r}] = '{s[l:r+1]}'")
-
+               
                 if (r - l + 1) < resLen:
                     res = [l,r]
                     resLen = r - l + 1
@@ -53,4 +50,3 @@ class Solution:
             
         return s[l:r+1] 
                     
-
