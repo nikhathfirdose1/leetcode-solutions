@@ -28,15 +28,12 @@ class Solution:
                     last = num * last
                     
                 elif sign == "/":
-    
                     last = int(last / num)
     
                 sign = c
                 num = 0
 
-        res += last
-
-        
+        res += last  
         return res
                 
 
