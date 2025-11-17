@@ -42,7 +42,7 @@ class Solution:
             curr = curr.next
 
         
-        dummy.next.prev=None
+        head.prev=None
 
 
         return dummy.next
