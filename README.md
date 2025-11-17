@@ -58,6 +58,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0148-sort-list](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0148-sort-list) |
 | [0369-plus-one-linked-list](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0369-plus-one-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -76,6 +77,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -345,6 +347,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0437-path-sum-iii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0545-boundary-of-binary-tree) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0854-making-a-large-island](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0854-making-a-large-island) |
 | [0975-range-sum-of-bst](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
