@@ -3,14 +3,16 @@ class Solution:
 
         intervals.sort(key = lambda x: x[0])
 
-        stack = []
+        merged = []
 
         for interval in intervals:
 
-            if stack and stack[-1][1] >= interval[0]:
-                stack[-1][1] = max(stack[-1][1], interval[1])
+            if not merged or merged[-1][1] < interval[0]:
+
+                merged.append(interval)
 
             else:
-                stack.append(interval)
-        
-        return stack
+
+                merged[-1][1] = max(merged[-1][1], interval[1])
+
+        return merged
