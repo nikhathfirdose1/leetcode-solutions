@@ -1,27 +1,14 @@
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
-
-        hm = {}
-
-        for num in nums:
-            hm[num] = hm.get(num, 0) + 1
-
-        i = 0
-
-        for key, val in hm.items():
-
-            nums[i] = key
-
-            i += 1
-
-        return len(hm)
-
-
-
-    
-
-
-
-
-
         
+
+        write = 1
+
+        for read in range(1, len(nums)):
+
+            if nums[read-1] != nums[read]:
+                nums[write] = nums[read]
+                write += 1
+
+        return write
+                
