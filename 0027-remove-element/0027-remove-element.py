@@ -1,13 +1,19 @@
 class Solution:
     def removeElement(self, nums: List[int], val: int) -> int:
 
-        nums.sort()
+        read = 0
+        write = 0
+
+        for i in range(len(nums)):
+
+            if nums[read] != val:
+                nums[write] = nums[read]
+                read += 1
+                write += 1
+
+            else:
+                read += 1
+                
 
 
-        for i in range(len(nums) - 1, -1, -1):
-            # print(nums[i])
-            if nums[i] == val:
-                nums.remove(nums[i])
-
-        return len(nums)
-        
+        return write
