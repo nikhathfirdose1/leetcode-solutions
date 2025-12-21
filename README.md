@@ -113,6 +113,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | ------- |
 | [0011-container-with-most-water](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0042-trapping-rain-water) |
@@ -161,6 +162,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0001-two-sum](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
