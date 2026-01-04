@@ -13,8 +13,7 @@ class Solution:
             if  diff > 0:
                 if diff > maxval:
                     maxval = diff
-                else:
-                    j += 1
+                j += 1
 
             else:
                 i += 1
