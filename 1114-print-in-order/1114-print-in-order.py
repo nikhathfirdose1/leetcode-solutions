@@ -1,27 +1,25 @@
-from threading import Lock
+from threading import Event
 
 class Foo:
     def __init__(self):
-        self.firstD = Lock()
-        self.secondD = Lock()
-        self.firstD.acquire()
-        self.secondD.acquire()
+        self.firstD = Event()
+        self.secondD = Event()
 
 
     def first(self, printFirst: 'Callable[[], None]') -> None:
         
         printFirst()
-        self.firstD.release()
+        self.firstD.set()
 
 
     def second(self, printSecond: 'Callable[[], None]') -> None:
         
-        with self.firstD:
+        if self.firstD.wait():
             printSecond()
-            self.secondD.release()
+            self.secondD.set()
 
 
     def third(self, printThird: 'Callable[[], None]') -> None:
         
-        with self.secondD:
+        if self.secondD.wait():
             printThird()
