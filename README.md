@@ -532,4 +532,5 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1114-print-in-order) |
+| [1115-print-foobar-alternately](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1115-print-foobar-alternately) |
 <!---LeetCode Topics End-->
