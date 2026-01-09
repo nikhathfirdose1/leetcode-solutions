@@ -7,7 +7,7 @@ class BoundedBlockingQueue(object):
     def __init__(self, capacity: int):
 
         self.capacity = capacity
-        self.my_queue = deque()
+        self.my_queue = []
         self.lock = Lock()
         self.cond = Condition(self.lock)
         
@@ -29,7 +29,7 @@ class BoundedBlockingQueue(object):
             while len(self.my_queue) == 0:
                 self.cond.wait()
 
-            last = self.my_queue.popleft()
+            last = self.my_queue.pop(0)
             self.cond.notify_all()
             return last
         
