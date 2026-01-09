@@ -29,9 +29,9 @@ class BoundedBlockingQueue(object):
             while len(self.my_queue) == 0:
                 self.cond.wait()
 
-            last = self.my_queue.pop(0)
+            val = self.my_queue.pop(0)
             self.cond.notify_all()
-            return last
+            return val
         
 
     def size(self) -> int:
