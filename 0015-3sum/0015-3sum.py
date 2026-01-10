@@ -1,36 +1,24 @@
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
-
+    
+        ans = set()
         nums.sort()
-        ans = []
-        
-        for i, num in enumerate(nums):
 
-            if i > 0 and num == nums[i-1]:
-                continue
- 
-            left = i + 1
-            right = len(nums) - 1
+        for i in range(len(nums)):
+            n2 = nums[i]
+            seen = set()
 
-            while left < right:
+            for j in range(i+1, len(nums)):
+                n3 = nums[j]
+                n1 = -n2 -n3
 
-                sum_val = num + nums[left] + nums[right]
+                if n1 in seen:
+                    triplet = tuple(((n1,n2,n3)))
+                    ans.add(triplet)
 
-                if sum_val > 0:
-                    right -=1 
+                seen.add(n3)
 
-                elif sum_val < 0:
-                    left += 1
-
-                else:
-                    ans.append([num, nums[left], nums[right]])
-                    left += 1
-                    right -= 1
-
-                    while left < right and nums[left] == nums[left -1]:
-                        left += 1
+        return [list(t) for t in ans]
 
 
-        return ans
 
-        
