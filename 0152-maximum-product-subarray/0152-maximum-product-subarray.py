@@ -1,24 +1,19 @@
 class Solution:
     def maxProduct(self, nums: List[int]) -> int:
 
-        cand = []
-        best = float("-inf")
+        best = prev_max = prev_min = nums[0]
 
-        prev_max = 1
-        prev_min = 1
+        for i in range(1, len(nums)):
+            a = nums[i]
+            b = nums[i] * prev_max
+            c = nums[i] * prev_min
 
-        for num in nums:
-            cand.append(num)
-            cand.append(num * prev_max)
-            cand.append(num * prev_min)
-
-            new_max = max(cand)
-            new_min = min(cand)
+            new_max = max(a,b,c)
+            new_min = min(a,b,c)
 
             best = max(new_max, best)
 
             prev_max, prev_min = new_max, new_min
-            cand =[]
 
         return best
         
