@@ -1,14 +1,10 @@
 class Solution:
     def missingNumber(self, nums):
 
-        expected = 0
-        for i in range(len(nums)+1):
-            expected = expected ^ i
+        first = sum(nums)
+        second = 0
 
-        actual = 0
-        for num in nums:
-            actual = actual ^ num
+        for i in range(len(nums) + 1):
+            second += i
 
-        print(expected,actual)
-
-        return actual ^ expected
+        return second - first
