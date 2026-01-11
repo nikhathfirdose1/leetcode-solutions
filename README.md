@@ -13,6 +13,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0066-plus-one](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0067-add-binary) |
 | [0227-basic-calculator-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
+| [0268-missing-number](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0268-missing-number) |
 | [0369-plus-one-linked-list](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0369-plus-one-linked-list) |
 | [0371-sum-of-two-integers](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -33,6 +34,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0146-lru-cache](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0268-missing-number) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0347-top-k-frequent-elements](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -141,6 +143,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0217-contains-duplicate](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0253-meeting-rooms-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
+| [0268-missing-number](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -189,6 +192,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0217-contains-duplicate](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
+| [0268-missing-number](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0268-missing-number) |
 | [0271-encode-and-decode-strings](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0271-encode-and-decode-strings) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0346-moving-average-from-data-stream](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0346-moving-average-from-data-stream) |
@@ -296,6 +300,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0362-design-hit-counter](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0362-design-hit-counter) |
 | [0658-find-k-closest-elements](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
@@ -526,6 +531,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | ------- |
 | [0067-add-binary](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 ## Combinatorics
