@@ -1,9 +1,14 @@
 class Solution:
     def missingNumber(self, nums):
 
-        num_set = set(nums)
+        expected = 0
+        for i in range(len(nums)+1):
+            expected = expected ^ i
 
-        n = len(nums) + 1
-        for number in range(n):
-            if number not in num_set:
-                return number
+        actual = 0
+        for num in nums:
+            actual = actual ^ num
+
+        print(expected,actual)
+
+        return actual ^ expected
