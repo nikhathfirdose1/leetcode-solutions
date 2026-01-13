@@ -17,6 +17,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0369-plus-one-linked-list](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0369-plus-one-linked-list) |
 | [0371-sum-of-two-integers](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0415-add-strings](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0912-random-pick-with-weight](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
@@ -41,6 +42,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0348-design-tic-tac-toe](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0348-design-tic-tac-toe) |
 | [0359-logger-rate-limiter](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0359-logger-rate-limiter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0525-contiguous-array](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0778-reorganize-string](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0778-reorganize-string) |
@@ -74,6 +76,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0359-logger-rate-limiter](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0359-logger-rate-limiter) |
 | [0362-design-hit-counter](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0362-design-hit-counter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1125-design-file-system](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1125-design-file-system) |
 ## Doubly-Linked List
@@ -200,6 +203,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0348-design-tic-tac-toe](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0348-design-tic-tac-toe) |
 | [0362-design-hit-counter](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0362-design-hit-counter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0485-max-consecutive-ones](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -407,6 +411,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0912-random-pick-with-weight](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
 ## Recursion
 |  |
