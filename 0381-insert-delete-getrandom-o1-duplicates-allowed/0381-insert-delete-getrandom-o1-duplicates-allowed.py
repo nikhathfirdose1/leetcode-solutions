@@ -33,7 +33,6 @@ class RandomizedCollection:
 
         idx = self.hm[val].pop()
 
-
         last_idx = len(self.multiset) - 1
         last_val = self.multiset[last_idx]
 
@@ -49,10 +48,9 @@ class RandomizedCollection:
         self.multiset.pop()
         self.freq[val] = self.freq.get(val, 0) - 1
 
-        if not self.hm[val]:
+        if self.hm[val] == 0:
             del self.hm[val]
 
-        
         return True
         
 
