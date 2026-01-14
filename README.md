@@ -12,6 +12,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0062-unique-paths](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0227-basic-calculator-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0268-missing-number) |
 | [0369-plus-one-linked-list](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0369-plus-one-linked-list) |
@@ -452,6 +453,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0062-unique-paths](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
@@ -559,4 +561,8 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [1116-print-zero-even-odd](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1116-print-zero-even-odd) |
 | [1117-building-h2o](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1117-building-h2o) |
 | [1188-design-bounded-blocking-queue](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1188-design-bounded-blocking-queue) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
