@@ -48,7 +48,7 @@ class RandomizedCollection:
         self.multiset.pop()
         self.freq[val] = self.freq.get(val, 0) - 1
 
-        if self.hm[val] == 0:
+        if self.hm[val] == 0: # if set empty
             del self.hm[val]
 
         return True
