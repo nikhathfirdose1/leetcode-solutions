@@ -12,17 +12,23 @@ class Solution:
 
     def pickIndex(self) -> int:
 
-        
+        left = 0 
+        right = len(self.prefix) - 1
 
-
-        # print(self.prefix)
         total = self.prefix[-1]
 
-        x = random.randint(1, total)
+        target = random.randint(1,total)
 
-        for i in range(len(self.prefix)):
-            if self.prefix[i] >= x:
-                return i
+        while left < right:
+            mid = (left + right) // 2
+
+            if self.prefix[mid] < target:
+                left = mid + 1
+            else:
+                right = mid 
+        
+
+        return left
 
 
 
