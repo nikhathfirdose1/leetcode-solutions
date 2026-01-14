@@ -20,6 +20,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0415-add-strings](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
+| [0528-random-pick-with-weight](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0528-random-pick-with-weight) |
 | [0912-random-pick-with-weight](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
 | [1014-k-closest-points-to-origin](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1031-add-to-array-form-of-integer](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1031-add-to-array-form-of-integer) |
@@ -206,6 +207,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0485-max-consecutive-ones](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0525-contiguous-array) |
+| [0528-random-pick-with-weight](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
@@ -242,6 +244,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0253-meeting-rooms-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0525-contiguous-array](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0525-contiguous-array) |
+| [0528-random-pick-with-weight](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0912-random-pick-with-weight](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
 | [0966-binary-subarrays-with-sum](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
@@ -307,6 +310,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0268-missing-number](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0362-design-hit-counter](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0362-design-hit-counter) |
+| [0528-random-pick-with-weight](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0528-random-pick-with-weight) |
 | [0658-find-k-closest-elements](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
@@ -412,6 +416,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0528-random-pick-with-weight](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0528-random-pick-with-weight) |
 | [0912-random-pick-with-weight](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
 ## Recursion
 |  |
