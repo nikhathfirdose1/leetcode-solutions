@@ -217,6 +217,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0854-making-a-large-island](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0854-making-a-large-island) |
 | [0883-car-fleet](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0883-car-fleet) |
 | [0912-random-pick-with-weight](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
+| [0931-minimum-falling-path-sum](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0948-sort-an-array](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
@@ -455,6 +456,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0338-counting-bits) |
+| [0931-minimum-falling-path-sum](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 | [1764-maximum-repeating-substring](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1764-maximum-repeating-substring) |
 | [2690-house-robber-iv](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/2690-house-robber-iv) |
@@ -466,6 +468,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0064-minimum-path-sum](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0348-design-tic-tac-toe](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0348-design-tic-tac-toe) |
 | [0854-making-a-large-island](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0854-making-a-large-island) |
+| [0931-minimum-falling-path-sum](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Binary Search Tree
 |  |
