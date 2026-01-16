@@ -1,40 +1,38 @@
-from threading import Lock
-from threading import Condition
-from collections import deque
+import threading 
 
 class BoundedBlockingQueue(object):
 
     def __init__(self, capacity: int):
 
         self.capacity = capacity
-        self.my_queue = []
-        self.lock = Lock()
-        self.cond = Condition(self.lock)
+        self.queue = []
+        self.lock = threading.Lock()
+        self.condition = threading.Condition(self.lock)
         
 
     def enqueue(self, element: int) -> None:
+        with self.condition:
+            while self.capacity == self.size():
+                self.condition.wait()
 
-        with self.cond:
-            while len(self.my_queue) == self.capacity:
-                self.cond.wait()
-            
+            self.queue.append(element)
+            self.condition.notify_all()
 
-            self.my_queue.append(element)
-            self.cond.notify_all()
-
+            print(self.queue)
 
     def dequeue(self) -> int:
-
-        with self.cond:
-            while len(self.my_queue) == 0:
-                self.cond.wait()
-
-            val = self.my_queue.pop(0)
-            self.cond.notify_all()
-            return val
         
+        with self.condition:
+            while self.size() == 0:
+                self.condition.wait()
+
+            rear = self.queue[0]
+            self.queue.remove(rear)
+            self.condition.notify_all()
+
+            return rear
 
     def size(self) -> int:
+
+        return len(self.queue)
         
-        with self.cond:
-            return len(self.my_queue)
