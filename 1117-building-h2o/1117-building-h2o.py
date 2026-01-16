@@ -1,48 +1,44 @@
-from threading import Lock, Condition, Barrier
-
+import threading
 
 class H2O:
     def __init__(self):
-
-        self.barrier = Barrier(3)
-        self.lock = Lock()
-        self.cond = Condition(self.lock)
+        self.barrier = threading.Barrier(3, action= self.reset)
+        self.lock = threading.Lock()
+        self.condition = threading.Condition(self.lock)
         self.hydro = 0
         self.oxy = 0
-        pass
 
 
     def hydrogen(self, releaseHydrogen: 'Callable[[], None]') -> None:
         
-        # releaseHydrogen() outputs "H". Do not change or remove this line.
-
-
-        with self.cond:
+        with self.condition:
             while self.hydro == 2:
-                self.cond.wait()
-            
+                self.condition.wait()
+
             self.hydro += 1
-            releaseHydrogen() 
-            self.cond.notify_all()
+            releaseHydrogen()
+            self.condition.notify_all()
 
         self.barrier.wait()
 
 
     def oxygen(self, releaseOxygen: 'Callable[[], None]') -> None:
         
-        # releaseOxygen() outputs "O". Do not change or remove this line.
-        with self.cond:
-            while self.hydro < 2 or self.oxy == 1:
-                self.cond.wait()
-        
+        with self.condition:
+            while self.oxy == 1 or self.hydro <2 : 
+                self.condition.wait()
+
             self.oxy += 1
             releaseOxygen()
-            
+            self.condition.notify_all()
 
         self.barrier.wait()
 
-        with self.cond:
+    
+    def reset(self):
+
+        with self.condition:
             self.hydro = 0
             self.oxy = 0
-            self.cond.notify_all()
-            
+            self.condition.notify_all()
+
