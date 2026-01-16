@@ -15,8 +15,9 @@ class H2O:
             while self.hydro == 2:
                 self.condition.wait()
 
-            self.hydro += 1
+            
             releaseHydrogen()
+            self.hydro += 1
             self.condition.notify_all()
 
         self.barrier.wait()
@@ -28,8 +29,9 @@ class H2O:
             while self.oxy == 1 or self.hydro <2 : 
                 self.condition.wait()
 
-            self.oxy += 1
+            
             releaseOxygen()
+            self.oxy += 1
             self.condition.notify_all()
 
         self.barrier.wait()
