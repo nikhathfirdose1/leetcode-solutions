@@ -1,34 +1,40 @@
-from threading import Semaphore
+import threading
 
 class Foo:
     def __init__(self):
-
-        self.a = Semaphore(1)
-        self.b = Semaphore(0)
-        self.c = Semaphore(0)
-
-        pass
+        self.lock = threading.Lock()
+        self.cond = threading.Condition(self.lock)
+        self.flag = "first"
 
 
     def first(self, printFirst: 'Callable[[], None]') -> None:
         
-        # printFirst() outputs "first". Do not change or remove this line.
-        self.a.acquire()
-        printFirst()
-        self.b.release()
+        with self.lock:
+            while self.flag != "first":
+                self.cond.wait()
+            
+            printFirst()
+            self.flag = "sec"
+            self.cond.notify_all()
+        
 
 
     def second(self, printSecond: 'Callable[[], None]') -> None:
-        
-        # printSecond() outputs "second". Do not change or remove this line.
-        self.b.acquire()
-        printSecond()
-        self.c.release()
+
+        with self.lock:
+            while self.flag != "sec":
+                self.cond.wait()
+            
+            printSecond()
+            self.flag = "third"
+            self.cond.notify_all()
 
 
     def third(self, printThird: 'Callable[[], None]') -> None:
-        
-        # printThird() outputs "third". Do not change or remove this line.
-        self.c.acquire()
-        printThird()
-        self.a.release()
+
+        with self.lock:
+            while self.flag != "third":
+                self.cond.wait()
+            
+            printThird()
+            self.cond.notify_all()
