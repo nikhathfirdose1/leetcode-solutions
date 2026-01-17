@@ -1,20 +1,24 @@
+from collections import deque
 class HitCounter:
 
     def __init__(self):
-
-        self.queue = deque()
-        
+        self.q = deque()
 
     def hit(self, timestamp: int) -> None:
 
-        self.queue.append(timestamp)
-        
+
+        self.q.append(timestamp)
 
     def getHits(self, timestamp: int) -> int:
-        while self.queue and timestamp - self.queue[0] >= 300:
-                self.queue.popleft()
 
-        return len(self.queue)
+
+        while self.q and timestamp - self.q[0] >= 300 :
+            self.q.popleft()
+
+        return len(self.q)
+
+
+
         
 
 
