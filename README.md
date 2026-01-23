@@ -370,6 +370,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0199-binary-tree-right-side-view](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0261-graph-valid-tree](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0261-graph-valid-tree) |
 | [0285-inorder-successor-in-bst](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0285-inorder-successor-in-bst) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0339-nested-list-weight-sum](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0339-nested-list-weight-sum) |
@@ -391,6 +392,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0127-word-ladder](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0207-course-schedule) |
+| [0261-graph-valid-tree](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0261-graph-valid-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0339-nested-list-weight-sum](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0339-nested-list-weight-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -583,4 +585,12 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Union-Find
+|  |
+| ------- |
+| [0261-graph-valid-tree](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0261-graph-valid-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [0261-graph-valid-tree](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0261-graph-valid-tree) |
 <!---LeetCode Topics End-->
