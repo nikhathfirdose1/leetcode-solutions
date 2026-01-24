@@ -224,6 +224,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0745-find-smallest-letter-greater-than-target](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
 | [0854-making-a-large-island](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0854-making-a-large-island) |
+| [0875-koko-eating-bananas](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0883-car-fleet](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0883-car-fleet) |
 | [0912-random-pick-with-weight](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
 | [0931-minimum-falling-path-sum](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
@@ -327,6 +328,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0658-find-k-closest-elements](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
+| [0875-koko-eating-bananas](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
 | [2690-house-robber-iv](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/2690-house-robber-iv) |
 ## Quickselect
