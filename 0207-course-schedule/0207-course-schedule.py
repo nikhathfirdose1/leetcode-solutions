@@ -1,31 +1,28 @@
 class Solution:
-    def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
+    def canFinish(self, numCourses: int, prerequisites: List[List[int]]):
 
-        indegree =  [0] * numCourses
-        
-        adj = defaultdict(list)
-
-        for u,v in prerequisites:
-            adj[v].append(u)
-            indegree[u] += 1
-
+        adj = [[] for i in range(numCourses)]
+        indeg = [0] * numCourses
         queue = deque()
+
+        for u, v in prerequisites:
+            adj[u].append(v)
+            indeg[v] += 1
+
         for i in range(numCourses):
-            if indegree[i] == 0:
+            if indeg[i] == 0:
                 queue.append(i)
 
-        
-        topo = []
+        processed = 0
 
         while queue:
             node = queue.popleft()
-            topo.append(node)
+            processed += 1
+
 
             for neigh in adj[node]:
-                indegree[neigh] -= 1
-
-                if indegree[neigh] == 0:
+                indeg[neigh] -= 1
+                if indeg[neigh] == 0:
                     queue.append(neigh)
 
-        
-        return len(topo) == numCourses
+        return processed == numCourses
