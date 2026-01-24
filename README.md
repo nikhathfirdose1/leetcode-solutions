@@ -23,6 +23,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0445-add-two-numbers-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0528-random-pick-with-weight](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0528-random-pick-with-weight) |
 | [0912-random-pick-with-weight](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
+| [0973-k-closest-points-to-origin](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1031-add-to-array-form-of-integer](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1031-add-to-array-form-of-integer) |
 ## Hash Table
@@ -98,6 +99,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0948-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
@@ -112,6 +114,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0778-reorganize-string](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0948-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
@@ -158,6 +161,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0778-reorganize-string](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [0883-car-fleet](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0883-car-fleet) |
 | [0948-sort-an-array](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0948-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Data Stream
@@ -225,6 +229,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0931-minimum-falling-path-sum](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0948-sort-an-array](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [0973-k-closest-points-to-origin](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1014-k-closest-points-to-origin](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -329,6 +334,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Tree
 |  |
@@ -519,6 +525,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 ## Geometry
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Radix Sort
 |  |
