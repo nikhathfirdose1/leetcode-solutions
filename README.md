@@ -598,5 +598,6 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0261-graph-valid-tree](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0261-graph-valid-tree) |
 <!---LeetCode Topics End-->
