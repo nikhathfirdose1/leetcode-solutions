@@ -222,6 +222,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0931-minimum-falling-path-sum](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0948-sort-an-array](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [0994-rotting-oranges](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1014-k-closest-points-to-origin](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1031-add-to-array-form-of-integer](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1031-add-to-array-form-of-integer) |
@@ -399,6 +400,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0339-nested-list-weight-sum](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0339-nested-list-weight-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0854-making-a-large-island](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0854-making-a-large-island) |
+| [0994-rotting-oranges](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1236-web-crawler](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1236-web-crawler) |
@@ -491,6 +493,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0417-pacific-atlantic-water-flow](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0854-making-a-large-island](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0854-making-a-large-island) |
 | [0931-minimum-falling-path-sum](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Binary Search Tree
 |  |
