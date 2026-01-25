@@ -1,52 +1,45 @@
-import random
-
 class RandomizedSet:
 
     def __init__(self):
 
-        self.items = []
-        self.hm = {} 
+        self.list = []
+        self.hm = {}
+        
 
     def insert(self, val: int) -> bool:
 
-        if val not in self.hm:
-            self.items.append(val)
-            self.hm[val] = len(self.items) - 1
-            return True
-        
-        return False
-        
+        if val in self.hm:
+            return False
 
+
+        self.list.append(val)
+        self.hm[val] = len(self.list) - 1
+        return True
+        
     def remove(self, val: int) -> bool:
 
-        if val in self.hm:
-
-
-            idx = self.hm[val]
-            last_val = self.items[-1]
-
-
-            self.items[idx], self.items[-1] =self.items[-1] , self.items[idx]
-            
-            self.hm[last_val] = idx
-            
-
-            self.items.pop()
-
-            del self.hm[val]
-
-            return True
+        if val not in self.hm:
+            return False
 
         
-        return False
+        idx = self.hm[val]
+        last_idx = len(self.list) -1
+        last_val = self.list[last_idx]
+
+        self.list[idx], self.list[last_idx] = self.list[last_idx], self.list[idx]
+
+        self.list.pop()
+        self.hm[last_val] = idx
+        del self.hm[val]
+
+        return True
 
 
-
+        
 
     def getRandom(self) -> int:
 
-
-        return random.choice(self.items)
+        return random.choice(self.list)
         
 
 
