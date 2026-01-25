@@ -10,7 +10,7 @@ class Solution:
         
         bad = [False] * len(transactions)
 
-        hm = defaultdict(list)
+        hm = defaultdict(lambda: defaultdict(list))
 
 
         for name, time, amt, city, idx in parsed:
@@ -19,13 +19,13 @@ class Solution:
             
 
             for t in range(max(0,time-60), min(1000, time+60)+1):
-                for prev_name, prev_city, prev_idx in hm[t]:
-                    if prev_city != city and prev_name == name:
+                for  prev_city, prev_idx in hm[name][t]:
+                    if prev_city != city:
                         bad[idx] = True
                         bad[prev_idx] = True
 
 
-            hm[time].append((name, city, idx))
+            hm[name][time].append((city, idx))
 
 
         return [transactions[i] for i in range(len(transactions)) if bad[i] ]
