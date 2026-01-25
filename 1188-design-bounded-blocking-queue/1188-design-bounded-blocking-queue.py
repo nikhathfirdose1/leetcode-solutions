@@ -5,7 +5,7 @@ class BoundedBlockingQueue(object):
     def __init__(self, capacity: int):
 
         self.capacity = capacity
-        self.queue = []
+        self.queue = deque()
         self.lock = threading.Lock()
         self.condition = threading.Condition(self.lock)
         
@@ -18,8 +18,6 @@ class BoundedBlockingQueue(object):
             self.queue.append(element)
             self.condition.notify_all()
 
-            print(self.queue)
-
     def dequeue(self) -> int:
         
         with self.condition:
@@ -27,7 +25,7 @@ class BoundedBlockingQueue(object):
                 self.condition.wait()
 
             rear = self.queue[0]
-            self.queue.remove(rear)
+            self.queue.popleft()
             self.condition.notify_all()
 
             return rear
