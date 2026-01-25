@@ -21,6 +21,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0415-add-strings](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0528-random-pick-with-weight](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0528-random-pick-with-weight) |
 | [0912-random-pick-with-weight](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
 | [0973-k-closest-points-to-origin](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -217,6 +218,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0485-max-consecutive-ones](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0525-contiguous-array](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -259,6 +261,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0238-product-of-array-except-self](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0325-maximum-size-subarray-sum-equals-k) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0525-contiguous-array](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -328,6 +331,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0268-missing-number](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0362-design-hit-counter](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0362-design-hit-counter) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0528-random-pick-with-weight](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0528-random-pick-with-weight) |
 | [0658-find-k-closest-elements](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -458,6 +462,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0528-random-pick-with-weight](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0528-random-pick-with-weight) |
 | [0912-random-pick-with-weight](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
 ## Recursion
@@ -623,4 +628,12 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0207-course-schedule](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0261-graph-valid-tree) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+## Ordered Set
+|  |
+| ------- |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 <!---LeetCode Topics End-->
