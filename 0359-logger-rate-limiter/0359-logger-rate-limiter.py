@@ -13,13 +13,11 @@ class Logger:
             return True
 
 
-        if self.hm[message] <= timestamp:
+        if timestamp < self.hm[message]:
+            return False
+        else:
             self.hm[message] = timestamp + 10
             return True
-
-        else:
-            return False
-
         
 
 
