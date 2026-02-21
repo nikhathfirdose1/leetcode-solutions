@@ -4,8 +4,8 @@ class Solution:
 
         adj = [[] for i in range(numCourses)]
 
-        for u, v in prerequisites:
-            adj[u].append(v)
+        for a, b in prerequisites:
+            adj[b].append(a)
 
         
 
@@ -18,7 +18,7 @@ class Solution:
             a = pre[0]
             b = pre[1]
 
-            in_deg[b] += 1
+            in_deg[a] += 1
 
             
 
