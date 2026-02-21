@@ -1,34 +1,39 @@
 class Solution:
-    def findOrder(self, numCourses: int, prerequisites: List[List[int]]):
+    def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
 
+        if len(prerequisites) == 0:
+            return [i for i in range(numCourses)]
+
+        
         adj = [[] for i in range(numCourses)]
-        indeg = [0] * numCourses
-        queue = deque()
 
-        for u,v in prerequisites:
-            adj[u].append(v)
-            indeg[v] += 1
+        for a, b in prerequisites:
+            adj[b].append(a)
 
-        for i in range(numCourses):
-            if indeg[i] == 0:
-                queue.append(i)
+        in_deg = [0] * numCourses
 
+        for pre in prerequisites:
+            a = pre[0]
+            b = pre[1]
+            in_deg[a] += 1
+
+        
+        queue = deque([i for i in range(numCourses) if in_deg[i] == 0])
         order = []
-        res = []
 
         while queue:
-            node = queue.popleft()
 
+            node = queue.popleft()
             order.append(node)
 
-
             for neigh in adj[node]:
-                indeg[neigh] -= 1
-                if indeg[neigh] == 0:
+                in_deg[neigh] -= 1
+
+                if in_deg[neigh] == 0:
                     queue.append(neigh)
+
         
-        if len(order) == numCourses:
-            for i in range(len(order)-1, -1, -1):
-                res.append(order[i])
+        return order if len(order) == numCourses else []
+
+
         
-        return res
