@@ -1,28 +1,47 @@
 class Solution:
-    def canFinish(self, numCourses: int, prerequisites: List[List[int]]):
+    def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
+
 
         adj = [[] for i in range(numCourses)]
-        indeg = [0] * numCourses
-        queue = deque()
 
         for u, v in prerequisites:
             adj[u].append(v)
-            indeg[v] += 1
+
+        
+
+        queue = deque([])
+
+        in_deg = [0]* numCourses
+        order = []
+
+        for pre in prerequisites:
+            a = pre[0]
+            b = pre[1]
+
+            in_deg[b] += 1
+
+            
 
         for i in range(numCourses):
-            if indeg[i] == 0:
+            if in_deg[i] == 0:
                 queue.append(i)
-
-        processed = 0
-
+        
         while queue:
-            node = queue.popleft()
-            processed += 1
 
+            node = queue.popleft()
+            order.append(node)
 
             for neigh in adj[node]:
-                indeg[neigh] -= 1
-                if indeg[neigh] == 0:
+                in_deg[neigh] -= 1
+
+                if in_deg[neigh] == 0:
                     queue.append(neigh)
 
-        return processed == numCourses
+
+        # print(order)
+
+        
+        return len(order) == numCourses
+
+
+        
