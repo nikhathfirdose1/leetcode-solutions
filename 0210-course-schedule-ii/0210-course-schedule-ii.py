@@ -7,15 +7,12 @@ class Solution:
         
         adj = [[] for i in range(numCourses)]
 
-        for a, b in prerequisites:
-            adj[b].append(a)
-
         in_deg = [0] * numCourses
 
-        for pre in prerequisites:
-            a = pre[0]
-            b = pre[1]
+        for a, b in prerequisites:
+            adj[b].append(a)
             in_deg[a] += 1
+            
 
         
         queue = deque([i for i in range(numCourses) if in_deg[i] == 0])
