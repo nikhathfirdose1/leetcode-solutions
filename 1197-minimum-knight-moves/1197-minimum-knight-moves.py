@@ -31,10 +31,7 @@ class Solution:
                 nc = c + dc
 
 
-                if min_r > nr > max_r and min_c > nc > max_c:
-                    continue
-
-                if (nr, nc) not in visited:
+                if min_r <= nr <= max_r and min_c <= nc <= max_c and (nr, nc) not in visited:
                     visited.add((nr,nc))
                     queue.append((nr,nc, dist+1))
         
