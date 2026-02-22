@@ -21,8 +21,6 @@ class Solution:
 
         if fresh == 0:
             return 0
-        elif fresh > 0 and len(queue) == 0:
-            return -1
         
 
         while queue:
@@ -35,15 +33,12 @@ class Solution:
 
                 if 0 <= nr < rows and 0 <= nc < cols and grid[nr][nc] == 1:
                     grid[nr][nc] = 2
+                    fresh -= 1
                     queue.append((nr,nc, minute + 1))
 
-        
+        if fresh > 0:
+            return -1
 
-        for row in range(rows):
-            for col in range(cols):
-                if grid[row][col] == 1:
-                    return -1
-                
         return minute  
         
 
