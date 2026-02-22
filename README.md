@@ -427,6 +427,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0994-rotting-oranges](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1197-minimum-knight-moves](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1197-minimum-knight-moves) |
 | [1236-web-crawler](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1236-web-crawler) |
 ## Binary Tree
 |  |
