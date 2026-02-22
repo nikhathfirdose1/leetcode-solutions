@@ -7,28 +7,30 @@
 class Solution:
     def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
 
+
         if not root:
             return []
 
+        queue = deque([root])
         ans = []
 
-        def dfs(node, level):
+        while queue:
 
-            if len(ans) == level:
-                ans.append([])
+            len_queue = len(queue)
+            each = []
 
-            ans[level].append(node.val)
+            for i in range(len_queue):
+                node = queue.popleft()
+                each.append(node.val)
 
-            if node.left:
-                dfs(node.left, level+1)
-            if node.right:
-                dfs(node.right, level + 1)
+                if node.left:
+                    queue.append(node.left)
+                
+                if node.right:
+                    queue.append(node.right)
 
-        
-        dfs(root,0)
+            ans.append(each)
+
         return ans
-
-            
-
 
         
