@@ -12,15 +12,17 @@ class Solution:
         a = abs(x)
         b = abs(y)
 
+        min_r = - 2
+        min_c = - 2
+
+        max_r = a + 2
+        max_c = b + 2
+
         while queue:
 
             r, c, dist = queue.popleft()
 
-            min_r = - 2
-            min_c = - 2
 
-            max_r = a + 2
-            max_c = b + 2
 
 
             if (r, c) == (a,b):
