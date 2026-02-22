@@ -223,6 +223,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0525-contiguous-array](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0528-random-pick-with-weight) |
+| [0542-01-matrix](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
@@ -423,6 +424,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0314-binary-tree-vertical-order-traversal](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0339-nested-list-weight-sum](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0339-nested-list-weight-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0854-making-a-large-island](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0854-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -508,6 +510,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0338-counting-bits) |
+| [0542-01-matrix](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 | [1764-maximum-repeating-substring](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1764-maximum-repeating-substring) |
@@ -520,6 +523,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0064-minimum-path-sum](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0348-design-tic-tac-toe](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0348-design-tic-tac-toe) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0854-making-a-large-island](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0854-making-a-large-island) |
 | [0931-minimum-falling-path-sum](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0994-rotting-oranges) |
