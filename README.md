@@ -115,6 +115,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0703-kth-largest-element-in-a-stream](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0778-reorganize-string](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0778-reorganize-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -407,6 +408,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0545-boundary-of-binary-tree](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0545-boundary-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0854-making-a-large-island](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0854-making-a-large-island) |
 | [0975-range-sum-of-bst](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -428,6 +430,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0417-pacific-atlantic-water-flow](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0743-network-delay-time](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0854-making-a-large-island](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0854-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -514,6 +517,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0152-maximum-product-subarray](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0542-01-matrix](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0542-01-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 | [1764-maximum-repeating-substring](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1764-maximum-repeating-substring) |
@@ -641,6 +645,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0210-course-schedule-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0261-graph-valid-tree) |
 | [0743-network-delay-time](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -653,4 +658,5 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
