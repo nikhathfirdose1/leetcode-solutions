@@ -37,13 +37,10 @@ class Solution:
                         heapq.heappush(heap, (new_t, v))
 
 
-            ans_time = time[1:]
-            
-            for val in ans_time:
-                if val == float("inf"):
-                    return -1
-                
-            return max(ans_time)
+            max_time = max(time[1:])
+
+
+            return max_time if max_time < float("inf") else -1
 
 
         return dj(k)
