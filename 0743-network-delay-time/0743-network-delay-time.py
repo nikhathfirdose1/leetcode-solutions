@@ -4,6 +4,9 @@ import heapq
 class Solution:
     def networkDelayTime(self, times: List[List[int]], n: int, k: int) -> int:
 
+        if n == 1:
+            return 0
+
         
         def dj(src):
 
@@ -22,8 +25,7 @@ class Solution:
 
                 t, node = heapq.heappop(heap)
 
-                
-
+            
                 if t != time[node]:
                     continue
 
