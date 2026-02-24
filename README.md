@@ -120,6 +120,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0948-sort-an-array](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
+| [1631-path-with-minimum-effort](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Merge Sort
 |  |
 | ------- |
@@ -247,6 +248,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [1169-invalid-transactions](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1169-invalid-transactions) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1219-longest-well-performing-interval](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1219-longest-well-performing-interval) |
+| [1631-path-with-minimum-effort](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1909-buildings-with-an-ocean-view](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1909-buildings-with-an-ocean-view) |
 | [2690-house-robber-iv](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/2690-house-robber-iv) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -343,6 +345,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
 | [0875-koko-eating-bananas](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
+| [1631-path-with-minimum-effort](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2690-house-robber-iv](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/2690-house-robber-iv) |
 ## Quickselect
 |  |
@@ -413,6 +416,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0975-range-sum-of-bst](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1236-web-crawler](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1236-web-crawler) |
+| [1631-path-with-minimum-effort](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -437,6 +441,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [1171-shortest-path-in-binary-matrix](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1197-minimum-knight-moves](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1197-minimum-knight-moves) |
 | [1236-web-crawler](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1236-web-crawler) |
+| [1631-path-with-minimum-effort](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -535,6 +540,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0931-minimum-falling-path-sum](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -638,6 +644,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 |  |
 | ------- |
 | [0261-graph-valid-tree](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0261-graph-valid-tree) |
+| [1631-path-with-minimum-effort](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
