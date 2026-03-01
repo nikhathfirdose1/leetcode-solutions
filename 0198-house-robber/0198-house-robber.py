@@ -1,31 +1,14 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
 
-        if not nums:
-            return 0
+        n = len(nums)
+        dp = [0] * (n+1)
 
-        memo = {}
+        dp[0] = 0
+        dp[1] = nums[0]
 
-        
+        for i in range(2, n+1):
+            dp[i] = max(dp[i-1], (dp[i-2] + nums[i-1]))
 
-        def helper(n):
-
-            if n == 0:
-                memo[n] = 0
-
-            if n == 1:
-                return nums[0]
-            
-            if n in memo:
-                return memo[n]
-
-            
-            memo[n] = max(helper(n-1), (helper(n-2)+nums[n-1]))
-
-
-            return memo[n]
-
-
-        
-        return helper(len(nums))
+        return dp[n]
         
