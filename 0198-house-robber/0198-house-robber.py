@@ -1,18 +1,31 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
 
-        n = len(nums)
+        if not nums:
+            return 0
 
-        if n == 1:
-            return nums[0]
+        memo = {}
+
         
-        dp = [0] * (n)
 
-        dp[0] = nums[0]
-        dp[1] = nums[1]
+        def helper(n):
 
-        for i in range(2, n):
-            dp[i] = max(dp[i-2] , dp[i-3]) + nums[i]
+            if n == 0:
+                memo[n] = 0
+
+            if n == 1:
+                return nums[0]
+            
+            if n in memo:
+                return memo[n]
+
+            
+            memo[n] = max(helper(n-1), (helper(n-2)+nums[n-1]))
 
 
-        return max(dp)
+            return memo[n]
+
+
+        
+        return helper(len(nums))
+        
