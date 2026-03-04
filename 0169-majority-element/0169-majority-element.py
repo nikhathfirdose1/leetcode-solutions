@@ -1,19 +1,15 @@
 class Solution:
-    def majorityElement(self, nums: List[int]) -> int:
-
-        n = len(nums)
-
-        major = n // 2
-
-        hm = {}
+    def majorityElement(self, nums):
+        count = 0
+        candidate = None
 
         for num in nums:
-            hm[num] = hm.get(num, 0) + 1
+            if count == 0:
+                candidate = num
 
-        for key, value in hm.items():
-            if value > major:
-                return key
+            if num == candidate:
+                count += 1
+            else:
+                count -= 1
 
-                
-
-        
+        return candidate
