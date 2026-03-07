@@ -24,18 +24,11 @@ class Solution:
                 l2 = l2.next
 
             digit = total % 10
-            carry = total //10
+            carry = total // 10
 
             current.next = ListNode(digit)
             current = current.next
 
         
         return dummy.next
-
-
-
-
-
-
-
-        
+    
