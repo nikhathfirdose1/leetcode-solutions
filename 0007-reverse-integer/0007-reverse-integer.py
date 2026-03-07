@@ -20,7 +20,7 @@ class Solution:
             x = (x) // 10
             
             
-            if rev > INT_MAX // 10 or rev < INT_MIN // 10:
+            if rev > INT_MAX // 10:
                 return 0
 
             
