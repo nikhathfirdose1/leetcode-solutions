@@ -37,6 +37,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0049-group-anagrams](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0127-word-ladder) |
+| [0142-linked-list-cycle-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -66,6 +67,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | ------- |
 | [0002-add-two-numbers](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0142-linked-list-cycle-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0148-sort-list) |
 | [0369-plus-one-linked-list](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0369-plus-one-linked-list) |
@@ -141,6 +143,7 @@ My leetcode account: [Nikhath Firdose](https://leetcode.com/u/nikhath_firdose/)
 | [0042-trapping-rain-water](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0142-linked-list-cycle-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0253-meeting-rooms-ii](https://github.com/nikhathfirdose1/leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
