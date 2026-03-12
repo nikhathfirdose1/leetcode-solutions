@@ -1,24 +1,20 @@
 class Solution:
     def twoSum(self, numbers: List[int], target: int) -> List[int]:
-
+                
         left = 0
         right = len(numbers) - 1
 
         while left < right:
 
-            sum_val = numbers[right] + numbers[left]
+            pair = numbers[left] + numbers[right]
 
-            if  sum_val == target:
+            if pair == target:
+                return [left+1,right+1]
 
-                return [left+1, right+1]
-
-            elif sum_val < target:
-
-                left += 1
-
-            else:
+            elif pair > target:
                 right -= 1
 
+            else:
+                left += 1
 
-        return [-1,-1]
-
+        return [] 
