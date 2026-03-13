@@ -25,6 +25,9 @@ class Solution:
 
             if nums[i] > 0:
                 break
+
+            if i > 0 and nums[i] == nums[i - 1]:
+                continue
             seen = set()
 
             for j in range(i+1, len(nums)):
