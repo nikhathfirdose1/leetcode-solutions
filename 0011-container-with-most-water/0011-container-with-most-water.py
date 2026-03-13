@@ -36,6 +36,19 @@ class Solution:
         return max_so_far
 
 
+# Dry Run
+
+# height = [ 7,5,4,8,3,2,1]
+# output = 21
+
+# i = 0; j = 6; area = 6
+# i = 0; j = 5; area = 10
+# i = 0; j = 4; area = 12
+# i = 0; j = 3; area = 21
+# i = 1; j = 3; area = 10
+# i = 2; j = 3; area = 4
+# i = 3; j = 3
+
 
 
 
